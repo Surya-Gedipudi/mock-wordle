@@ -14,3 +14,4 @@ Intermediate HTML/CSS/JS workshop for hack.place()
       <img width="773" alt="image" src="https://github.com/hackplace-org/mock-wordle/assets/138071235/3e09a0bb-9ea6-4cc0-bf36-ed8f52011d02">
 
    
+Additionally, you can change the number of guesses in the script.js file.
