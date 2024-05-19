@@ -20,16 +20,16 @@ Intermediate HTML/CSS/JS workshop for hack.place()
 
 ### Main Display
 
-![alt text](image-2.png)
+![image](https://github.com/Surya-Gedipudi/mock-wordle/assets/138071235/3a13c072-c82e-490a-b9da-79cb6889a947)
 
 ### Correct Answer Display 1
 
-![alt text](image.png)
+![image](https://github.com/Surya-Gedipudi/mock-wordle/assets/138071235/4e0e8fec-33f5-455f-bb7f-97eb687b795e)
 
 ### Correct Answer Display 2
 
-![alt text](image-1.png)
+![image](https://github.com/Surya-Gedipudi/mock-wordle/assets/138071235/e0a9ac64-5fe6-4289-a6ee-060071bdca7b)
 
 ### No Guesses Left Display
 
-![alt text](image-3.png)
+![image](https://github.com/Surya-Gedipudi/mock-wordle/assets/138071235/b602bfa1-6763-4e5a-b881-1d7a3be31537)
